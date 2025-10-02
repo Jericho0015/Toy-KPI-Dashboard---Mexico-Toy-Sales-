@@ -1,6 +1,6 @@
 # 🧸 Toy KPI Dashboard – Mexico Toy Sales  
 
-![Dashboard Preview](images/dashboard_preview.png)  
+![Dashboard Preview](https://github.com/Jericho0015/Toy-KPI-Dashboard---Mexico-Toy-Sales-/blob/main/Dashboard%20Preview/Dashboard_preview.png)  
 
 ## 📌 Project Overview  
 This project delivers a **business intelligence dashboard** that analyzes sales and inventory data for a **toy retail chain in Mexico**.  
