@@ -3,14 +3,15 @@
 ![Dashboard Preview](images/dashboard_preview.png)  
 
 ## 📌 Project Overview  
-This project analyzes sales and inventory data for a **fictitious toy store chain in Mexico**.  
-An **interactive KPI dashboard** was built to track sales performance, profitability, and product trends across store locations.  
+This project delivers a **business intelligence dashboard** that analyzes sales and inventory data for a **toy retail chain in Mexico**.  
 
-The dashboard provides business users with insights into:  
-- Sales growth  
-- Product performance  
-- Regional sales distribution  
+The purpose is to provide **decision-makers** with actionable insights into:  
+- Revenue growth  
 - Profitability trends  
+- Best-selling product categories  
+- Store performance across different locations  
+
+This helps managers make **data-driven decisions** for sales strategy, inventory planning, and profitability optimization.  
 
 ---
 
