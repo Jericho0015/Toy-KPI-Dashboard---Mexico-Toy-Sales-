@@ -29,36 +29,55 @@ This helps managers make **data-driven decisions** for sales strategy, inventory
 - Profit margins  
 - Inventory levels  
 
----
+# 📊 Key Business Insights  
 
-## 🎯 Dashboard Highlights  
-
-### 🔹 KPI Cards  
+### 🔹 KPIs at a Glance  
 - **Total Orders:** 8,990  
 - **Revenue:** $139,541  
 - **Profit:** $39,931  
 
-### 🔹 Sales Insights  
-- **Orders by Category**  
-  - 🏆 Art & Crafts (top performer)  
-  - Toys, Games, Sports & Outdoors, Electronics  
+### 🔹 Sales & Profitability  
+- **Art & Crafts** is the **highest-selling category**, followed by Toys and Games.  
+- Revenue peaked in **early 2023 (~$200K)**, showing seasonal demand patterns.  
+- **Commercial store locations** contributed the most to revenue.  
 
-- **Revenue Trend by Month**  
-  - Revenue peaked in **Q1 2023 (~$200K)**  
-  - Seasonal dips in mid-2022 and mid-2023  
-
-### 🔹 Store Locations  
-- Airport  
-- Commercial  
-- Downtown  
-- Residential  
+### 🔹 Strategic Opportunities  
+- Focus marketing on **Art & Crafts & Toys** to maximize revenue.  
+- Improve **inventory planning** for seasonal fluctuations.  
+- Expand profitable store formats (e.g., **Commercial stores**) into new markets.  
 
 ---
 
-## 🚀 Tools & Technologies  
-- **Data Visualization:** Power BI / Tableau  
-- **Data Processing:** Excel / Python (Pandas, Numpy)  
-- **Version Control:** Git & GitHub  
+## 🎯 Why This Matters for Business  
+- **Better forecasting:** Track sales peaks and seasonal drops to plan campaigns.  
+- **Inventory optimization:** Avoid overstocking slow-moving categories like Electronics.  
+- **Profit growth:** Identify high-margin categories to increase overall profitability.  
+- **Market expansion:** Understand which store types and categories perform best to scale effectively.  
+
+---
+
+## 🚀 Tools Used  
+- **Dashboard:** Power BI / Tableau  
+- **Dataset:** CSV (829K+ records, 19 fields)  
+- **Data Analysis:** Excel, Python (Pandas) for preprocessing  
+- **Visualization:** Business KPIs, Category Sales, Revenue Trends  
+
+---
+
+## 📂 Project Deliverables  
+- 📊 Interactive Toy Sales KPI Dashboard  
+- 📈 Sales & Profitability Insights Report  
+- 📁 Dataset (toy_sales_mexico.csv)  
+
+---
+
+## 🏆 Business Impact  
+This dashboard empowers retail managers and executives to:  
+- Monitor **real-time sales performance**  
+- Detect **profitable trends**  
+- Take **data-driven strategic actions**  
+
+By aligning **data analytics with business goals**, toy retailers can achieve **sustainable growth and profitability**.  
 
 ---
 
